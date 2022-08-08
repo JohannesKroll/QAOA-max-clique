@@ -1,4 +1,3 @@
-# QAOA-max-clique
 
 # Using QAOA to solve the Clique-Problem
 
